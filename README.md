@@ -21,7 +21,3 @@ The goal of the competition is to predict which passengers survived the Titanic 
 - Evaluated models using **cross-validation** and accuracy score
 - Prepared and submitted predictions to Kaggle for evaluation
 
----
-
-## 📁 Project Structure
-
